@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 60" width="280" height="60">
+  <defs>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e0bb4e"/>
+      <stop offset="100%" stop-color="#c59b27"/>
+    </linearGradient>
+  </defs>
+  <!-- Emblem -->
+  <rect x="5" y="5" width="50" height="50" rx="10" fill="#0f2537"/>
+  <rect x="7" y="7" width="46" height="46" rx="8" fill="none" stroke="url(#gold)" stroke-width="1.5" stroke-opacity="0.5"/>
+  <path d="M30 14 L16 22 V24 H44 V22 L30 14 Z" fill="url(#gold)"/>
+  <rect x="20" y="26" width="3" height="14" fill="#ffffff" rx="0.5"/>
+  <rect x="25" y="26" width="3" height="14" fill="#ffffff" rx="0.5"/>
+  <rect x="32" y="26" width="3" height="14" fill="#ffffff" rx="0.5"/>
+  <rect x="37" y="26" width="3" height="14" fill="#ffffff" rx="0.5"/>
+  <rect x="16" y="41" width="28" height="3" fill="url(#gold)" rx="0.5"/>
+  <!-- Typography -->
+  <text x="68" y="33" font-family="'Cinzel', Georgia, serif" font-size="22" font-weight="800" fill="#0f2537" letter-spacing="1.2">BANK<tspan fill="#c59b27">LEGAL</tspan></text>
+  <text x="69" y="47" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="8.5" font-weight="700" fill="#5a626d" letter-spacing="2.5">ADVISORY &amp; DEFENSE</text>
+</svg>
+

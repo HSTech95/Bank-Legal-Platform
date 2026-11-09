@@ -1,0 +1,4 @@
+# Python & Django Requirements
+# Bank Legal & Professional Services Platform
+Django>=5.0,<7.0
+

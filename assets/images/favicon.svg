@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e0bb4e"/>
+      <stop offset="100%" stop-color="#b0881e"/>
+    </linearGradient>
+    <linearGradient id="navyGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f2537"/>
+      <stop offset="100%" stop-color="#1a446c"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#navyGrad)"/>
+  <rect x="2" y="2" width="60" height="60" rx="12" fill="none" stroke="url(#goldGrad)" stroke-width="1.5" stroke-opacity="0.4"/>
+  <!-- Scales of Justice & Banking Pediment -->
+  <path d="M32 10 L14 20 V23 H50 V20 L32 10 Z" fill="url(#goldGrad)"/>
+  <rect x="19" y="25" width="4" height="18" fill="#ffffff" rx="1"/>
+  <rect x="26" y="25" width="4" height="18" fill="#ffffff" rx="1"/>
+  <rect x="34" y="25" width="4" height="18" fill="#ffffff" rx="1"/>
+  <rect x="41" y="25" width="4" height="18" fill="#ffffff" rx="1"/>
+  <rect x="14" y="45" width="36" height="4" fill="url(#goldGrad)" rx="1"/>
+  <rect x="11" y="50" width="42" height="4" fill="url(#goldGrad)" rx="1"/>
+</svg>
+
